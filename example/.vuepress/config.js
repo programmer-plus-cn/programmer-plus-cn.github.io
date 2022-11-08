@@ -82,7 +82,7 @@ module.exports = {
     cyberSecurityRecord: '2222',
     cyberSecurityLink: 'http://www.baidu.com',
     // 项目开始时间
-    startYear: '2017',
+    startYear: '2022',
     /**
      * 密钥 (if your blog is private)
      */
@@ -126,11 +126,6 @@ module.exports = {
         }
       ],
       footer: [
-        {
-          type: 'button',
-          text: '打赏',
-          link: '/donate'
-        },
         {
           type: 'button',
           text: '打赏',
